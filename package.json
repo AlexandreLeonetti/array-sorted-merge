@@ -1,0 +1,27 @@
+{
+  "name": "@leonetti/array-sorted-merge",
+  "version": "0.0.1",
+  "description": "sorted arrays merging using typescript",
+  "repository": "alexandreleonetti/array-sorted-merge",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "type",
+    "types"
+  ],
+  "author": {
+    "name": "Alex Leonetti",
+    "url": "https://github.com/AlexandreLeonetti"
+  },
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
